@@ -1,4 +1,4 @@
-# Hola, soy Rama 😁 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PEGI_18.svg/629px-PEGI_18.svg.png/revision/latest/top-crop/width/300/height/300?cb=20151008164535" width="50""></h2>
+# Hola, soy Rama 😁 <a href="https://media.tenor.com/images/f113e4079e7abcab3524fec554bf2adb/tenor.gif"><a>
 ## Datos personales
 - 👦 Mi nombre completo es Ramiro Uriel Mariani 
 - 📅 Actualmente tengo 17 años
