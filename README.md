@@ -1,4 +1,4 @@
-# Hola, soy Rama 😁 <a href="https://imgflip.com/gif/5100di"><img src="https://imgflip.com/gif/5100di"> title="Golazooo"/></a>
+# Hola, soy Rama 😁
 ## Datos personales
 - 👦 Mi nombre completo es Ramiro Uriel Mariani 
 - 📅 Actualmente tengo 17 años
