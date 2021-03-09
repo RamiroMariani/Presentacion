@@ -1,4 +1,4 @@
-# Hola, soy Rama 😁
+# Hola, soy Rama 😁 <a href:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/PEGI_18_%282009-2010%29.svg/30px-PEGI_18_%282009-2010%29.svg.png>
 
 ## Datos personales
 - 👦 Mi nombre completo es Ramiro Uriel Mariani 
