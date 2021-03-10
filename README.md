@@ -1,6 +1,6 @@
 # Hola, soy Rama 😁 
 
-<img src="https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif" width="20">
 
 ## Datos personales
 - 👦 Mi nombre completo es Ramiro Uriel Mariani 
